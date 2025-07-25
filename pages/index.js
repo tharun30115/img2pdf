@@ -88,7 +88,7 @@ export default function Home() {
 
   // Open GitHub link
   const openGitHub = () => {
-    window.open("https://github.com", "_blank");
+    window.open("https://github.com/tharun30115/img2pdf", "_blank");
   };
 
   // Refresh app (reset to initial state)
